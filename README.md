@@ -1,9 +1,9 @@
 # kucing
-Project autoscript
+Project autoscript ILHAM STORE
 # SEBELUM INSTALL
 <pre><code>apt update && apt -y upgrade</code></pre>
-# EFFATA XRAY V1
-<pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt upgrade && apt install -y bzip2 gzip coreutils screen curl unzip && wget -q https://raw.githubusercontent.com/effatastore/kucing/main/setup.sh && chmod +x setup.sh && ./setup.sh</code></pre>
+# INSTALL XRAY V2
+<pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt upgrade && apt install -y bzip2 gzip coreutils screen curl unzip && wget -q https://raw.githubusercontent.com/IlhamStore23/kucing/main/setup.sh && chmod +x setup.sh && ./setup.sh</code></pre>
 ## HARGA AUTOSCRIPT
 ### _1 Bulan 10k_
 ### _Lifetime tanpa change ip 30K_
@@ -12,8 +12,8 @@ Project autoscript
 ### FULL TUTOR 1JT
 
 ## Silahkan Hubungi
-### https://t.me/CRSe7en2nd
-### https://wa.me/6281391215759
+### https://t.me/IlhamStore23
+### https://wa.me/687824016438
 
 ## ⏩ AUTOSCRIPT WEBSOCKET MULTIPORT 443 DETAILS ⏪
 ### Support Vmess Multipath <br> 
