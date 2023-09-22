@@ -236,8 +236,8 @@ sub=$(</dev/urandom tr -dc a-z0-9 | head -c4)
 DOMAIN=storeid.cloud
 SUB_DOMAIN=${sub}.storeid.cloud
 NS_DOMAIN=ns.${sub}.storeid.cloud
-CF_ID=effata2403@gmail.com
-CF_KEY=d0ad249cf30d426150e94fbbf7ba40b922599
+CF_ID=ilhamstoress726@gmail.com
+CF_KEY=6159615642:AAEoAjxKYMwN81Pcgas7b-F2GFYRB0kQomU
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."
